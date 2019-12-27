@@ -1,0 +1,7 @@
+{
+    "version": "0.0.0",
+    "folder_name": "data",
+    "sheet_name": "Result",
+    "save_name_xlsx": "Result.xlsx",
+    "save_name_csv": "Result.csv"
+}
